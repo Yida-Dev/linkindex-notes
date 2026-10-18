@@ -1,0 +1,9 @@
+{
+  "name": "linkindex-notes",
+  "description": "A small reference index of design and tooling resources.",
+  "homepage": "https://land-book.com/",
+  "authors": ["Rowan Fields"],
+  "license": "MIT",
+  "copyright": "Copyright 2026 Rowan Fields",
+  "targetType": "library"
+}
